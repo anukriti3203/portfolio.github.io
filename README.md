@@ -10,9 +10,7 @@
 | XII Boards (CBSE)          | Mayoor Chopasni School, Jodhpur| 96.2 %        |          2023         |  
 | X Boards (CBSE)            | Mayoor Chopasni School, Jodhpur| 93.4 %        |          2021         |
 
-- , Applied Arts |  
-- XII
-- X
+
 
 ## Work Experience
 **Position @ Company (_startdate - Present_)**
